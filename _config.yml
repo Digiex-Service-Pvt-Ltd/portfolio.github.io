@@ -1,4 +1,5 @@
-title: Digiex Services Pvt Ltd
-#logo: /assets/img/logo.png
-description: This is a company description
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll # Replace this with your chosen theme
+title: "Digiex Services Pvt. Ltd."
+description: "Innovative solutions for your business needs."
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://Digiex-Dev.github.io"
